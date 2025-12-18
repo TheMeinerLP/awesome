@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [Python](#python)
 *   [C](#c)
 *   [C#](#c-1)
@@ -11,7 +12,6 @@
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Go](#go)
-*   [Java](#java)
 *   [Kotlin](#kotlin)
 *   [Svelte](#svelte)
 *   [miscellaneous](#miscellaneous)
@@ -38,6 +38,101 @@
 *   [Dockerfile](#dockerfile)
 *   [Makefile](#makefile)
 *   [Groovy](#groovy)
+
+## Java
+
+*   [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts.
+*   [mcmdev/staffprofiles](https://github.com/mcmdev/staffprofiles) - staffprofiles is a Minecraft plugin that assigns staff members a different game profile if they are joining using a specific hostname.
+*   [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
+*   [noahbclarkson/Auto-Tune](https://github.com/noahbclarkson/Auto-Tune) - Automatic Minecraft Economy Plugin
+*   [SparklyPower/SparklyPaper](https://github.com/SparklyPower/SparklyPaper) - ✨ "Ooooh, sparkly paper!" - SparklyPower's Paper fork, making large servers snappier with high-performance optimizations and improvements!
+*   [CloudburstMC/Cloudburst](https://github.com/CloudburstMC/Cloudburst) - Cloudburst Server is a Bedrock first server software. Originally forked from Cloudburst Nukkit.
+*   [PikaMug/Quests](https://github.com/PikaMug/Quests) - Easy-to-use, open-source plugin for the creation and execution of quests on Minecraft servers.
+*   [MagmaGuy/EliteMobs](https://github.com/MagmaGuy/EliteMobs) - This is a spigot plugin that aims to extend Minecraft's survival endgame by making mobs more interesting.
+*   [gomint/gomint](https://github.com/gomint/gomint) - GoMint is a modern Minecraft Bedrock Edition server enabling you to make your visions come true
+*   [elBukkit/MagicPlugin](https://github.com/elBukkit/MagicPlugin) - A Bukkit plugin for spells, wands and other magic
+*   [Akarin-project/Akarin](https://github.com/Akarin-project/Akarin) - Akarin is a powerful server software from the 'new dimension'
+*   [LegacyLands/legacy-lands-library](https://github.com/LegacyLands/legacy-lands-library) - Enterprise-grade modular framework for Minecraft server development with multi-tier caching, Redis Streams, resilient data processing, and modern Java concurrency. Built on Fairy Framework for production-scale plugin development.
+*   [LeavesMC/Leaves](https://github.com/LeavesMC/Leaves) - Fork of Paper aimed at repairing broken vanilla properties.
+*   [PurpurMC/Purpur](https://github.com/PurpurMC/Purpur) - Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.
+*   [jpenilla/MiniMOTD](https://github.com/jpenilla/MiniMOTD) - Minecraft server/proxy plugin to set the server list MOTD using MiniMessage for formatting, supporting RGB colors.
+*   [Strokkur424/StrokkCommands](https://github.com/Strokkur424/StrokkCommands) - A super lightweight annotation processor library for generating Brigadier commands using annotations!
+*   [stefvanschie/IF](https://github.com/stefvanschie/IF) - An inventory framework for managing GUIs
+*   [EarthMC/coreprotect-clickhouse](https://github.com/EarthMC/coreprotect-clickhouse) - A fork of CoreProtect that adds support for using ClickHouse as a database backend.
+*   [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
+*   [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+*   [Phoenix616/MineDown](https://github.com/Phoenix616/MineDown) - A MarkDown inspired markup library for Minecraft chat components
+*   [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
+*   [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
+*   [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
+*   [apache/cassandra](https://github.com/apache/cassandra) - Apache Cassandra®
+*   [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
+*   [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
+*   [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
+*   [FishIntegratedMinecraft/FIM-Fabric](https://github.com/FishIntegratedMinecraft/FIM-Fabric) - Fabric part of FIM
+*   [Moulberry/adventure-binary-serializer](https://github.com/Moulberry/adventure-binary-serializer) - Binary Serializer for Adventure Components
+*   [OpticFusion1/MCAntiMalware](https://github.com/OpticFusion1/MCAntiMalware) - Anti-Malware for minecraft
+*   [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
+*   [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+*   [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
+*   [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
+*   [apache/shardingsphere](https://github.com/apache/shardingsphere) - Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
+*   [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop
+*   [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+*   [apache/maven](https://github.com/apache/maven) - Apache Maven core
+*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
+*   [artipie/artipie](https://github.com/artipie/artipie) - Binary Artifact Management Tool
+*   [ocpsoft/prettytime](https://github.com/ocpsoft/prettytime) - Social Style Date and Time Formatting for Java
+*   [apache/cloudstack](https://github.com/apache/cloudstack) - Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
+*   [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
+*   [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data and AI Stack
+*   [JetBrains/jitwatch4i](https://github.com/JetBrains/jitwatch4i) - JITWatch4i is an IntelliJ IDEA plugin for analyzing and visualizing logs from the HotSpot JIT (Just-In-Time) compiler
+*   [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
+*   [KyoriPowered/ansi](https://github.com/KyoriPowered/ansi) - A low-level library for representing Minecraft: Java Edition chat components with ANSI escape sequences.
+*   [ls1intum/Artemis](https://github.com/ls1intum/Artemis) - Artemis - Interactive Learning with Automated Feedback
+*   [frengor/UltimateAdvancementAPI](https://github.com/frengor/UltimateAdvancementAPI) - A powerful API to create custom advancements for your Minecraft server.
+*   [PaperMC/adventure](https://github.com/PaperMC/adventure) - A user-interface library for Minecraft: Java Edition
+*   [FoundationGames/Splinecart](https://github.com/FoundationGames/Splinecart) - More interesting minecart tracks
+*   [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
+*   [HiveGamesOSS/Chunker](https://github.com/HiveGamesOSS/Chunker) - Convert Minecraft worlds between Java Edition and Bedrock Edition
+*   [PaperMC/PaperLib](https://github.com/PaperMC/PaperLib) - Plugin Library for interfacing with Paper Specific API's with graceful fallback that maintains Spigot Compatibility, such as Async Chunk Loading.
+*   [refactorfirst/RefactorFirst](https://github.com/refactorfirst/RefactorFirst) - Identifies and prioritizes God Classes Highly Coupled classes, and Class Cycles in Java codebases you should refactor first.
+*   [OneLiteFeatherNET/Microtus](https://github.com/OneLiteFeatherNET/Microtus) - Up to date Minestom fork caring about community, code quality & stability
+*   [Minecrell/ServerListPlus](https://github.com/Minecrell/ServerListPlus) - A flexible Minecraft plugin to customize the appearance of your server in the server list
+*   [jenkins-infra/repository-permissions-updater](https://github.com/jenkins-infra/repository-permissions-updater) - Artifactory permissions synchronization tool and data set
+*   [ViaVersion/ViaProxy](https://github.com/ViaVersion/ViaProxy) - Standalone proxy which allows players to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, Bedrock)
+*   [seiama/javaducks](https://github.com/seiama/javaducks) -
+*   [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
+*   [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
+*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+*   [Incendo/cloud-processors](https://github.com/Incendo/cloud-processors) - Extra pre- & post-processors for Cloud v2.
+*   [LuftigerLuca/SyncedWeather](https://github.com/LuftigerLuca/SyncedWeather) - This minecraft-plugin enables you to synchronize the time and weather of a real location with your world(s)
+*   [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
+*   [Pugmatt/BedrockConnect](https://github.com/Pugmatt/BedrockConnect) - Join any Minecraft Bedrock Edition server IP on Xbox One, Nintendo Switch, and PS4/PS5
+*   [crpmax/mc-bots](https://github.com/crpmax/mc-bots) - A simple app for stress testing Minecraft servers with bots
+*   [gitlab4j/gitlab4j-api](https://github.com/gitlab4j/gitlab4j-api) - GitLab4J API (gitlab4j-api) provides a full featured Java client library for working with GitLab repositories via the GitLab REST API
+*   [GeyserMC/OpenNBT](https://github.com/GeyserMC/OpenNBT) - A library for reading and writing NBT files.
+*   [IntellectualSites/fastasyncvoxelsniper](https://github.com/IntellectualSites/fastasyncvoxelsniper) - Voxel Sniper fork for modern Minecraft versions utilizing the improvements of FastAsyncWorldEdit
+*   [MaxPixelStudios/MinecraftDecompiler](https://github.com/MaxPixelStudios/MinecraftDecompiler) - Minecraft Decompiler. A useful tool/library to deobfuscate and decompile Minecraft(or any jar file) through popular mappings and various decompilers. Or use it as a lib to process obfuscation mappings such as converting a mapping to another format
+*   [OneLiteFeatherNET/Attollo](https://github.com/OneLiteFeatherNET/Attollo) - Attollo is a simple and modern elevator plugin for paper.
+*   [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) - Blazingly fast world manipulation for artists, builders and everyone else: https://modrinth.com/plugin/fastasyncworldedit
+*   [cjburkey01/ClaimChunk](https://github.com/cjburkey01/ClaimChunk) - Spigot plugin built for Minecraft 1.17+ allowing the claiming and protection of players' chunks. Old versions available for Minecraft 1.6+ (See Readme!)
+*   [lucko/spark](https://github.com/lucko/spark) - A performance profiler for Minecraft clients, servers, and proxies.
+*   [IzzelAliz/Arclight](https://github.com/IzzelAliz/Arclight) - A Bukkit(1.20/1.21) server implementation in modding environment using Mixin. ⚡
+*   [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more.
+*   [A248/LibertyBans](https://github.com/A248/LibertyBans) - The be-all, end-all of discipline.
+*   [GeorgH93/MarriageMaster](https://github.com/GeorgH93/MarriageMaster) - Marriage Plugin for Bukkit/Spigot
+*   [IntellectualSites/PlotSquared](https://github.com/IntellectualSites/PlotSquared) - PlotSquared - Reinventing the plotworld
+*   [kennytv/WorldEditSUI](https://github.com/kennytv/WorldEditSUI) - WorldEdit selection visualizer plugin for Minecraft
+*   [PaperMC/DataConverter](https://github.com/PaperMC/DataConverter) - Rewrite of the dataconverter system for performance.
+*   [HangarMC/Hangar](https://github.com/HangarMC/Hangar) - A plugin repository used for paper plugins
+*   [KyoriPowered/moonshine](https://github.com/KyoriPowered/moonshine) - A powerful localisation library, because your code is not clutter.
+*   [LogNet/grpc-spring-boot-starter](https://github.com/LogNet/grpc-spring-boot-starter) - Spring Boot starter module for gRPC  framework.
+*   [BlueMap-Minecraft/BlueMap](https://github.com/BlueMap-Minecraft/BlueMap) - A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer.
+*   [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
+*   [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
+*   [emortalmc/TNT](https://github.com/emortalmc/TNT) - TNT is an experimental world format for Minestom
+*   [theEvilReaper/Canis](https://github.com/theEvilReaper/Canis) - API which includes several BlockHandler implementation for Minestom
 
 ## Python
 
@@ -77,7 +172,6 @@
 *   [deepseek-ai/DeepSeek-Math](https://github.com/deepseek-ai/DeepSeek-Math) - DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models
 *   [deepseek-ai/DreamCraft3D](https://github.com/deepseek-ai/DreamCraft3D) - \[ICLR 2024] Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior
 *   [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
-*   [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 *   [Rudrabha/Wav2Lip](https://github.com/Rudrabha/Wav2Lip) - This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020. For HD commercial model, please try out Sync Labs
 *   [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 *   [0xInfection/Awesome-WAF](https://github.com/0xInfection/Awesome-WAF) - Everything about Web Application Firewalls (WAFs) from Security Standpoint! 🔥
@@ -254,101 +348,6 @@
 *   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 *   [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 
-## Java
-
-*   [mcmdev/staffprofiles](https://github.com/mcmdev/staffprofiles) - staffprofiles is a Minecraft plugin that assigns staff members a different game profile if they are joining using a specific hostname.
-*   [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
-*   [noahbclarkson/Auto-Tune](https://github.com/noahbclarkson/Auto-Tune) - Automatic Minecraft Economy Plugin
-*   [SparklyPower/SparklyPaper](https://github.com/SparklyPower/SparklyPaper) - ✨ "Ooooh, sparkly paper!" - SparklyPower's Paper fork, making large servers snappier with high-performance optimizations and improvements!
-*   [CloudburstMC/Cloudburst](https://github.com/CloudburstMC/Cloudburst) - Cloudburst Server is a Bedrock first server software. Originally forked from Cloudburst Nukkit.
-*   [PikaMug/Quests](https://github.com/PikaMug/Quests) - Easy-to-use, open-source plugin for the creation and execution of quests on Minecraft servers.
-*   [MagmaGuy/EliteMobs](https://github.com/MagmaGuy/EliteMobs) - This is a spigot plugin that aims to extend Minecraft's survival endgame by making mobs more interesting.
-*   [gomint/gomint](https://github.com/gomint/gomint) - GoMint is a modern Minecraft Bedrock Edition server enabling you to make your visions come true
-*   [elBukkit/MagicPlugin](https://github.com/elBukkit/MagicPlugin) - A Bukkit plugin for spells, wands and other magic
-*   [Akarin-project/Akarin](https://github.com/Akarin-project/Akarin) - Akarin is a powerful server software from the 'new dimension'
-*   [LegacyLands/legacy-lands-library](https://github.com/LegacyLands/legacy-lands-library) - Enterprise-grade modular framework for Minecraft server development with multi-tier caching, Redis Streams, resilient data processing, and modern Java concurrency. Built on Fairy Framework for production-scale plugin development.
-*   [LeavesMC/Leaves](https://github.com/LeavesMC/Leaves) - Fork of Paper aimed at repairing broken vanilla properties.
-*   [PurpurMC/Purpur](https://github.com/PurpurMC/Purpur) - Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.
-*   [jpenilla/MiniMOTD](https://github.com/jpenilla/MiniMOTD) - Minecraft server/proxy plugin to set the server list MOTD using MiniMessage for formatting, supporting RGB colors.
-*   [Strokkur424/StrokkCommands](https://github.com/Strokkur424/StrokkCommands) - A super lightweight annotation processor library for generating Brigadier commands using annotations!
-*   [stefvanschie/IF](https://github.com/stefvanschie/IF) - An inventory framework for managing GUIs
-*   [EarthMC/coreprotect-clickhouse](https://github.com/EarthMC/coreprotect-clickhouse) - A fork of CoreProtect that adds support for using ClickHouse as a database backend.
-*   [modelcontextprotocol/java-sdk](https://github.com/modelcontextprotocol/java-sdk) - The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI
-*   [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Open Source Orchestration & Scheduling Platform for Mission Critical Applications
-*   [Phoenix616/MineDown](https://github.com/Phoenix616/MineDown) - A MarkDown inspired markup library for Minecraft chat components
-*   [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
-*   [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
-*   [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Valkey & Redis Java client. Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Valkey and Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Bloom filter, Spring, Tomcat, Scheduler, JCache API, Hibernate, RPC, local cache..
-*   [apache/cassandra](https://github.com/apache/cassandra) - Apache Cassandra®
-*   [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
-*   [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
-*   [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
-*   [FishIntegratedMinecraft/FIM-Fabric](https://github.com/FishIntegratedMinecraft/FIM-Fabric) - Fabric part of FIM
-*   [Moulberry/adventure-binary-serializer](https://github.com/Moulberry/adventure-binary-serializer) - Binary Serializer for Adventure Components
-*   [OpticFusion1/MCAntiMalware](https://github.com/OpticFusion1/MCAntiMalware) - Anti-Malware for minecraft
-*   [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
-*   [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
-*   [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.
-*   [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine.
-*   [apache/shardingsphere](https://github.com/apache/shardingsphere) - Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.
-*   [apache/hadoop](https://github.com/apache/hadoop) - Apache Hadoop
-*   [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
-*   [apache/maven](https://github.com/apache/maven) - Apache Maven core
-*   [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
-*   [artipie/artipie](https://github.com/artipie/artipie) - Binary Artifact Management Tool
-*   [ocpsoft/prettytime](https://github.com/ocpsoft/prettytime) - Social Style Date and Time Formatting for Java
-*   [apache/cloudstack](https://github.com/apache/cloudstack) - Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform
-*   [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
-*   [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data and AI Stack
-*   [JetBrains/jitwatch4i](https://github.com/JetBrains/jitwatch4i) - JITWatch4i is an IntelliJ IDEA plugin for analyzing and visualizing logs from the HotSpot JIT (Just-In-Time) compiler
-*   [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
-*   [KyoriPowered/ansi](https://github.com/KyoriPowered/ansi) - A low-level library for representing Minecraft: Java Edition chat components with ANSI escape sequences.
-*   [ls1intum/Artemis](https://github.com/ls1intum/Artemis) - Artemis - Interactive Learning with Automated Feedback
-*   [frengor/UltimateAdvancementAPI](https://github.com/frengor/UltimateAdvancementAPI) - A powerful API to create custom advancements for your Minecraft server.
-*   [PaperMC/adventure](https://github.com/PaperMC/adventure) - A user-interface library for Minecraft: Java Edition
-*   [FoundationGames/Splinecart](https://github.com/FoundationGames/Splinecart) - More interesting minecart tracks
-*   [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-*   [HiveGamesOSS/Chunker](https://github.com/HiveGamesOSS/Chunker) - Convert Minecraft worlds between Java Edition and Bedrock Edition
-*   [PaperMC/PaperLib](https://github.com/PaperMC/PaperLib) - Plugin Library for interfacing with Paper Specific API's with graceful fallback that maintains Spigot Compatibility, such as Async Chunk Loading.
-*   [refactorfirst/RefactorFirst](https://github.com/refactorfirst/RefactorFirst) - Identifies and prioritizes God Classes Highly Coupled classes, and Class Cycles in Java codebases you should refactor first.
-*   [OneLiteFeatherNET/Microtus](https://github.com/OneLiteFeatherNET/Microtus) - Up to date Minestom fork caring about community, code quality & stability
-*   [Minecrell/ServerListPlus](https://github.com/Minecrell/ServerListPlus) - A flexible Minecraft plugin to customize the appearance of your server in the server list
-*   [jenkins-infra/repository-permissions-updater](https://github.com/jenkins-infra/repository-permissions-updater) - Artifactory permissions synchronization tool and data set
-*   [ViaVersion/ViaProxy](https://github.com/ViaVersion/ViaProxy) - Standalone proxy which allows players to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, Bedrock)
-*   [seiama/javaducks](https://github.com/seiama/javaducks) -
-*   [google/bindiff](https://github.com/google/bindiff) - Quickly find differences and similarities in disassembled code
-*   [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
-*   [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
-*   [Incendo/cloud-processors](https://github.com/Incendo/cloud-processors) - Extra pre- & post-processors for Cloud v2.
-*   [LuftigerLuca/SyncedWeather](https://github.com/LuftigerLuca/SyncedWeather) - This minecraft-plugin enables you to synchronize the time and weather of a real location with your world(s)
-*   [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
-*   [Pugmatt/BedrockConnect](https://github.com/Pugmatt/BedrockConnect) - Join any Minecraft Bedrock Edition server IP on Xbox One, Nintendo Switch, and PS4/PS5
-*   [crpmax/mc-bots](https://github.com/crpmax/mc-bots) - A simple app for stress testing Minecraft servers with bots
-*   [gitlab4j/gitlab4j-api](https://github.com/gitlab4j/gitlab4j-api) - GitLab4J API (gitlab4j-api) provides a full featured Java client library for working with GitLab repositories via the GitLab REST API
-*   [GeyserMC/OpenNBT](https://github.com/GeyserMC/OpenNBT) - A library for reading and writing NBT files.
-*   [IntellectualSites/fastasyncvoxelsniper](https://github.com/IntellectualSites/fastasyncvoxelsniper) - Voxel Sniper fork for modern Minecraft versions utilizing the improvements of FastAsyncWorldEdit
-*   [MaxPixelStudios/MinecraftDecompiler](https://github.com/MaxPixelStudios/MinecraftDecompiler) - Minecraft Decompiler. A useful tool/library to deobfuscate and decompile Minecraft(or any jar file) through popular mappings and various decompilers. Or use it as a lib to process obfuscation mappings such as converting a mapping to another format
-*   [OneLiteFeatherNET/Attollo](https://github.com/OneLiteFeatherNET/Attollo) - Attollo is a simple and modern elevator plugin for paper.
-*   [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) - Blazingly fast world manipulation for artists, builders and everyone else: https://modrinth.com/plugin/fastasyncworldedit
-*   [cjburkey01/ClaimChunk](https://github.com/cjburkey01/ClaimChunk) - Spigot plugin built for Minecraft 1.17+ allowing the claiming and protection of players' chunks. Old versions available for Minecraft 1.6+ (See Readme!)
-*   [lucko/spark](https://github.com/lucko/spark) - A performance profiler for Minecraft clients, servers, and proxies.
-*   [IzzelAliz/Arclight](https://github.com/IzzelAliz/Arclight) - A Bukkit(1.20/1.21) server implementation in modding environment using Mixin. ⚡
-*   [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more.
-*   [A248/LibertyBans](https://github.com/A248/LibertyBans) - The be-all, end-all of discipline.
-*   [GeorgH93/MarriageMaster](https://github.com/GeorgH93/MarriageMaster) - Marriage Plugin for Bukkit/Spigot
-*   [IntellectualSites/PlotSquared](https://github.com/IntellectualSites/PlotSquared) - PlotSquared - Reinventing the plotworld
-*   [kennytv/WorldEditSUI](https://github.com/kennytv/WorldEditSUI) - WorldEdit selection visualizer plugin for Minecraft
-*   [PaperMC/DataConverter](https://github.com/PaperMC/DataConverter) - Rewrite of the dataconverter system for performance.
-*   [HangarMC/Hangar](https://github.com/HangarMC/Hangar) - A plugin repository used for paper plugins
-*   [KyoriPowered/moonshine](https://github.com/KyoriPowered/moonshine) - A powerful localisation library, because your code is not clutter.
-*   [LogNet/grpc-spring-boot-starter](https://github.com/LogNet/grpc-spring-boot-starter) - Spring Boot starter module for gRPC  framework.
-*   [BlueMap-Minecraft/BlueMap](https://github.com/BlueMap-Minecraft/BlueMap) - A Minecraft mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer.
-*   [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
-*   [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
-*   [emortalmc/TNT](https://github.com/emortalmc/TNT) - TNT is an experimental world format for Minestom
-*   [theEvilReaper/Canis](https://github.com/theEvilReaper/Canis) - API which includes several BlockHandler implementation for Minestom
-*   [MultiPaper/MultiPaper](https://github.com/MultiPaper/MultiPaper) - Multi-server, single-world papermc implementation
-
 ## Kotlin
 
 *   [ArcanePlugins/LevelledMobs](https://github.com/ArcanePlugins/LevelledMobs) - Level-up mobs on your Spigot/Paper server, RPG-style!
@@ -390,6 +389,7 @@
 *   [elizaOS/characters](https://github.com/elizaOS/characters) - Some character files you can use
 *   [coqui-ai/coqui-voice-pack](https://github.com/coqui-ai/coqui-voice-pack) - 🐸Coqui Dialogue Audio Pack contains more than 2000 audio files of synthetic human voices over dialogue created specifically for video games. The pack includes both male and female voices from >30 different voices, and all of the files can be used for commercial purposes (royalty free).
 *   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+*   [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 *   [SanderMertens/ecs-faq](https://github.com/SanderMertens/ecs-faq) - Frequently asked questions about Entity Component Systems
 *   [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications) - A curated list of free courses with certifications. Also available at https://free-certifications.com/
 *   [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
