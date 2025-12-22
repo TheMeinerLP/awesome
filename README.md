@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
+*   [Jinja](#jinja)
 *   [Java](#java)
 *   [Python](#python)
 *   [C](#c)
@@ -29,8 +31,6 @@
 *   [Nunjucks](#nunjucks)
 *   [HCL](#hcl)
 *   [Ruby](#ruby)
-*   [Jinja](#jinja)
-*   [HTML](#html)
 *   [Swift](#swift)
 *   [Batchfile](#batchfile)
 *   [Objective-C](#objective-c)
@@ -38,6 +38,18 @@
 *   [Dockerfile](#dockerfile)
 *   [Makefile](#makefile)
 *   [Groovy](#groovy)
+
+## HTML
+
+*   [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
+*   [serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) - Curated list of awesome SEO tools
+*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+*   [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
+
+## Jinja
+
+*   [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
+*   [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 
 ## Java
 
@@ -132,7 +144,6 @@
 *   [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 *   [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
 *   [emortalmc/TNT](https://github.com/emortalmc/TNT) - TNT is an experimental world format for Minestom
-*   [theEvilReaper/Canis](https://github.com/theEvilReaper/Canis) - API which includes several BlockHandler implementation for Minestom
 
 ## Python
 
@@ -400,7 +411,6 @@
 *   [Pymmdrza/Pymmdrza](https://github.com/Pymmdrza/Pymmdrza) - ✨special ✨
 *   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 *   [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
-*   [InfernalSuite/InfernalWorldManager](https://github.com/InfernalSuite/InfernalWorldManager) -
 
 ## C++
 
@@ -502,16 +512,6 @@
 *   [RiotGamesMinions/thor-scmversion](https://github.com/RiotGamesMinions/thor-scmversion) - Thor tasks to manage a VERSION file based on SCM tags
 *   [Lakr233/GitLab-License-Generator](https://github.com/Lakr233/GitLab-License-Generator) - Generate GitLab License For Self-Hosted/Private Instances
 *   [btey/openproject-gitlab-integration](https://github.com/btey/openproject-gitlab-integration) - OpenProject module for integration with Gitlab
-
-## Jinja
-
-*   [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
-
-## HTML
-
-*   [serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) - Curated list of awesome SEO tools
-*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-*   [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 
 ## Swift
 
