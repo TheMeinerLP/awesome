@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Jinja](#jinja)
 *   [Java](#java)
 *   [Python](#python)
 *   [C](#c)
 *   [C#](#c-1)
-*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Go](#go)
@@ -38,6 +38,25 @@
 *   [Dockerfile](#dockerfile)
 *   [Makefile](#makefile)
 *   [Groovy](#groovy)
+
+## JavaScript
+
+*   [jellyfin/jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen) - Jellyfin Samsung TV Client
+*   [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
+*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
+*   [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
+*   [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+*   [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
+*   [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+*   [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+*   [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+*   [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
+*   [gapitio/node-red-contrib-gapit-snmp](https://github.com/gapitio/node-red-contrib-gapit-snmp) -
+*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+*   [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
+*   [MycroftAI/mimic-recording-studio](https://github.com/MycroftAI/mimic-recording-studio) - Mimic Recording Studio is a Docker-based application you can install to record voice samples, which can then be trained into a TTS voice with Mimic2
+*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
 ## HTML
 
@@ -109,7 +128,6 @@
 *   [HiveGamesOSS/Chunker](https://github.com/HiveGamesOSS/Chunker) - Convert Minecraft worlds between Java Edition and Bedrock Edition
 *   [PaperMC/PaperLib](https://github.com/PaperMC/PaperLib) - Plugin Library for interfacing with Paper Specific API's with graceful fallback that maintains Spigot Compatibility, such as Async Chunk Loading.
 *   [refactorfirst/RefactorFirst](https://github.com/refactorfirst/RefactorFirst) - Identifies and prioritizes God Classes Highly Coupled classes, and Class Cycles in Java codebases you should refactor first.
-*   [OneLiteFeatherNET/Microtus](https://github.com/OneLiteFeatherNET/Microtus) - Up to date Minestom fork caring about community, code quality & stability
 *   [Minecrell/ServerListPlus](https://github.com/Minecrell/ServerListPlus) - A flexible Minecraft plugin to customize the appearance of your server in the server list
 *   [jenkins-infra/repository-permissions-updater](https://github.com/jenkins-infra/repository-permissions-updater) - Artifactory permissions synchronization tool and data set
 *   [ViaVersion/ViaProxy](https://github.com/ViaVersion/ViaProxy) - Standalone proxy which allows players to join EVERY Minecraft server version (Classic, Alpha, Beta, Release, Bedrock)
@@ -126,7 +144,6 @@
 *   [GeyserMC/OpenNBT](https://github.com/GeyserMC/OpenNBT) - A library for reading and writing NBT files.
 *   [IntellectualSites/fastasyncvoxelsniper](https://github.com/IntellectualSites/fastasyncvoxelsniper) - Voxel Sniper fork for modern Minecraft versions utilizing the improvements of FastAsyncWorldEdit
 *   [MaxPixelStudios/MinecraftDecompiler](https://github.com/MaxPixelStudios/MinecraftDecompiler) - Minecraft Decompiler. A useful tool/library to deobfuscate and decompile Minecraft(or any jar file) through popular mappings and various decompilers. Or use it as a lib to process obfuscation mappings such as converting a mapping to another format
-*   [OneLiteFeatherNET/Attollo](https://github.com/OneLiteFeatherNET/Attollo) - Attollo is a simple and modern elevator plugin for paper.
 *   [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) - Blazingly fast world manipulation for artists, builders and everyone else: https://modrinth.com/plugin/fastasyncworldedit
 *   [cjburkey01/ClaimChunk](https://github.com/cjburkey01/ClaimChunk) - Spigot plugin built for Minecraft 1.17+ allowing the claiming and protection of players' chunks. Old versions available for Minecraft 1.6+ (See Readme!)
 *   [lucko/spark](https://github.com/lucko/spark) - A performance profiler for Minecraft clients, servers, and proxies.
@@ -150,7 +167,7 @@
 *   [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 *   [ZingyTomato/NetPeek](https://github.com/ZingyTomato/NetPeek) - A modern network scanner for GNOME.
 *   [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
-*   [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
+*   [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 *   [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
 *   [pathwaycom/pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
@@ -211,7 +228,6 @@
 *   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 *   [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 *   [hsnyder/radeonload](https://github.com/hsnyder/radeonload) - Fork of RadeonTop, displays data in a (continuous) text table rather than a curses UI.
-*   [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 
 ## C\#
 
@@ -219,24 +235,6 @@
 *   [Portalum/Portalum.Zvt](https://github.com/Portalum/Portalum.Zvt) - A .NET Zvt Library for Payment Terminals (C#)
 *   [Qolors/Clam-Shell](https://github.com/Qolors/Clam-Shell) - Discord File & URL Monitoring Anti-Virus Engine
 *   [mashed-potatoes/PotatoNV](https://github.com/mashed-potatoes/PotatoNV) - Unlock bootloader of Huawei devices on Kirin 960/95x/65x/620
-
-## JavaScript
-
-*   [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
-*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
-*   [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
-*   [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
-*   [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
-*   [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-*   [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
-*   [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-*   [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
-*   [gapitio/node-red-contrib-gapit-snmp](https://github.com/gapitio/node-red-contrib-gapit-snmp) -
-*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-*   [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
-*   [MycroftAI/mimic-recording-studio](https://github.com/MycroftAI/mimic-recording-studio) - Mimic Recording Studio is a Docker-based application you can install to record voice samples, which can then be trained into a TTS voice with Mimic2
-*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
 ## TypeScript
 
@@ -375,7 +373,6 @@
 *   [GradleUp/shadow](https://github.com/GradleUp/shadow) - Gradle plugin to create fat/uber JARs, apply file transforms, and relocate packages for applications and libraries. Gradle version of Maven's Shade plugin.
 *   [jakobkmar/KSpigot](https://github.com/jakobkmar/KSpigot) - Extended Spigot and Bukkit API for Kotlin
 *   [Shynixn/MCCoroutine](https://github.com/Shynixn/MCCoroutine) - MCCoroutine is a library, which adds extensive support for Kotlin Coroutines for Minecraft Server environments.
-*   [OneLiteFeatherNET/SolarSystemPlugin](https://github.com/OneLiteFeatherNET/SolarSystemPlugin) - Simple world management alternative to multiverse
 *   [theEvilReaper/DartPoet](https://github.com/theEvilReaper/DartPoet) - A Kotlin API which allows the generation of code for dart
 *   [jpenilla/run-task](https://github.com/jpenilla/run-task) - Gradle plugins adding tasks to run Minecraft server and proxy software
 *   [KryptonMC/Krypton](https://github.com/KryptonMC/Krypton) - A fast, lightweight Minecraft server written in Kotlin
