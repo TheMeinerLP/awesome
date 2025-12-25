@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Jinja](#jinja)
 *   [Java](#java)
 *   [Python](#python)
-*   [C](#c)
-*   [C#](#c-1)
+*   [C](#c-1)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [Go](#go)
@@ -38,6 +38,14 @@
 *   [Dockerfile](#dockerfile)
 *   [Makefile](#makefile)
 *   [Groovy](#groovy)
+
+## C\#
+
+*   [jellyfin/jellyfin-plugin-tvheadend](https://github.com/jellyfin/jellyfin-plugin-tvheadend) -
+*   [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
+*   [Portalum/Portalum.Zvt](https://github.com/Portalum/Portalum.Zvt) - A .NET Zvt Library for Payment Terminals (C#)
+*   [Qolors/Clam-Shell](https://github.com/Qolors/Clam-Shell) - Discord File & URL Monitoring Anti-Virus Engine
+*   [mashed-potatoes/PotatoNV](https://github.com/mashed-potatoes/PotatoNV) - Unlock bootloader of Huawei devices on Kirin 960/95x/65x/620
 
 ## JavaScript
 
@@ -125,6 +133,7 @@
 *   [PaperMC/adventure](https://github.com/PaperMC/adventure) - A user-interface library for Minecraft: Java Edition
 *   [FoundationGames/Splinecart](https://github.com/FoundationGames/Splinecart) - More interesting minecart tracks
 *   [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 *   [HiveGamesOSS/Chunker](https://github.com/HiveGamesOSS/Chunker) - Convert Minecraft worlds between Java Edition and Bedrock Edition
 *   [PaperMC/PaperLib](https://github.com/PaperMC/PaperLib) - Plugin Library for interfacing with Paper Specific API's with graceful fallback that maintains Spigot Compatibility, such as Async Chunk Loading.
 *   [refactorfirst/RefactorFirst](https://github.com/refactorfirst/RefactorFirst) - Identifies and prioritizes God Classes Highly Coupled classes, and Class Cycles in Java codebases you should refactor first.
@@ -229,13 +238,6 @@
 *   [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 *   [hsnyder/radeonload](https://github.com/hsnyder/radeonload) - Fork of RadeonTop, displays data in a (continuous) text table rather than a curses UI.
 
-## C\#
-
-*   [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
-*   [Portalum/Portalum.Zvt](https://github.com/Portalum/Portalum.Zvt) - A .NET Zvt Library for Payment Terminals (C#)
-*   [Qolors/Clam-Shell](https://github.com/Qolors/Clam-Shell) - Discord File & URL Monitoring Anti-Virus Engine
-*   [mashed-potatoes/PotatoNV](https://github.com/mashed-potatoes/PotatoNV) - Unlock bootloader of Huawei devices on Kirin 960/95x/65x/620
-
 ## TypeScript
 
 *   [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
@@ -275,7 +277,6 @@
 *   [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 *   [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 *   [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 *   [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).
 *   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
@@ -378,7 +379,6 @@
 *   [KryptonMC/Krypton](https://github.com/KryptonMC/Krypton) - A fast, lightweight Minecraft server written in Kotlin
 *   [square/moshi](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
 *   [BenWoodworth/knbt](https://github.com/BenWoodworth/knbt) - Kotlin NBT library for kotlinx.serialization
-*   [NiciDieNase/chaosflix](https://github.com/NiciDieNase/chaosflix) - AndroidTV/Fire TV client for media.ccc.de
 
 ## Svelte
 
