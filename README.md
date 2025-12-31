@@ -22,6 +22,7 @@
 *   [Shell](#shell)
 *   [Lua](#lua)
 *   [Clojure](#clojure)
+*   [Vue](#vue)
 *   [Dart](#dart)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [PHP](#php)
@@ -31,7 +32,6 @@
 *   [HCL](#hcl)
 *   [Ruby](#ruby)
 *   [Swift](#swift)
-*   [Vue](#vue)
 *   [Batchfile](#batchfile)
 *   [Objective-C](#objective-c)
 *   [YAML](#yaml)
@@ -133,7 +133,6 @@
 *   [PaperMC/adventure](https://github.com/PaperMC/adventure) - A user-interface library for Minecraft: Java Edition
 *   [FoundationGames/Splinecart](https://github.com/FoundationGames/Splinecart) - More interesting minecart tracks
 *   [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
-*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 *   [HiveGamesOSS/Chunker](https://github.com/HiveGamesOSS/Chunker) - Convert Minecraft worlds between Java Edition and Bedrock Edition
 *   [PaperMC/PaperLib](https://github.com/PaperMC/PaperLib) - Plugin Library for interfacing with Paper Specific API's with graceful fallback that maintains Spigot Compatibility, such as Async Chunk Loading.
 *   [refactorfirst/RefactorFirst](https://github.com/refactorfirst/RefactorFirst) - Identifies and prioritizes God Classes Highly Coupled classes, and Class Cycles in Java codebases you should refactor first.
@@ -253,7 +252,6 @@
 *   [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 *   [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 *   [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
-*   [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 *   [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 *   [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 *   [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced \[ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
@@ -278,6 +276,7 @@
 *   [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 *   [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+*   [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 *   [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 *   [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit) - A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).
 *   [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
@@ -461,6 +460,11 @@
 
 *   [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar\_chart:
 
+## Vue
+
+*   [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+*   [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution.
+
 ## Dart
 
 *   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -509,10 +513,6 @@
 ## Swift
 
 *   [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-
-## Vue
-
-*   [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) - Make your first open-source contribution.
 
 ## Batchfile
 
