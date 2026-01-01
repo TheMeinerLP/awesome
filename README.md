@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [C#](#c)
 *   [JavaScript](#javascript)
 *   [HTML](#html)
 *   [Jinja](#jinja)
-*   [Java](#java)
 *   [Python](#python)
 *   [C](#c-1)
 *   [TypeScript](#typescript)
@@ -37,49 +37,10 @@
 *   [YAML](#yaml)
 *   [Dockerfile](#dockerfile)
 *   [Makefile](#makefile)
-*   [Groovy](#groovy)
-
-## C\#
-
-*   [jellyfin/jellyfin-plugin-tvheadend](https://github.com/jellyfin/jellyfin-plugin-tvheadend) -
-*   [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
-*   [Portalum/Portalum.Zvt](https://github.com/Portalum/Portalum.Zvt) - A .NET Zvt Library for Payment Terminals (C#)
-*   [Qolors/Clam-Shell](https://github.com/Qolors/Clam-Shell) - Discord File & URL Monitoring Anti-Virus Engine
-*   [mashed-potatoes/PotatoNV](https://github.com/mashed-potatoes/PotatoNV) - Unlock bootloader of Huawei devices on Kirin 960/95x/65x/620
-
-## JavaScript
-
-*   [jellyfin/jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen) - Jellyfin Samsung TV Client
-*   [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
-*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
-*   [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
-*   [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
-*   [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
-*   [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-*   [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
-*   [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-*   [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
-*   [gapitio/node-red-contrib-gapit-snmp](https://github.com/gapitio/node-red-contrib-gapit-snmp) -
-*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-*   [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
-*   [MycroftAI/mimic-recording-studio](https://github.com/MycroftAI/mimic-recording-studio) - Mimic Recording Studio is a Docker-based application you can install to record voice samples, which can then be trained into a TTS voice with Mimic2
-*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-
-## HTML
-
-*   [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
-*   [serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) - Curated list of awesome SEO tools
-*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-*   [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
-
-## Jinja
-
-*   [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
-*   [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 
 ## Java
 
+*   [TheMeinerLP/MinecraftOTEL](https://github.com/TheMeinerLP/MinecraftOTEL) - This plugin is what happens when you want to combine OpenTelemetry with your Paper Server for monitoring in detail.
 *   [Activiti/Activiti](https://github.com/Activiti/Activiti) - Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the cloud. It integrates perfectly with Spring, it is extremely lightweight and based on simple concepts.
 *   [mcmdev/staffprofiles](https://github.com/mcmdev/staffprofiles) - staffprofiles is a Minecraft plugin that assigns staff members a different game profile if they are joining using a specific hostname.
 *   [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
@@ -169,6 +130,45 @@
 *   [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 *   [mc1arke/sonarqube-community-branch-plugin](https://github.com/mc1arke/sonarqube-community-branch-plugin) - A plugin that allows branch analysis and pull request decoration in the Community version of Sonarqube
 *   [emortalmc/TNT](https://github.com/emortalmc/TNT) - TNT is an experimental world format for Minestom
+
+## C\#
+
+*   [jellyfin/jellyfin-plugin-tvheadend](https://github.com/jellyfin/jellyfin-plugin-tvheadend) -
+*   [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
+*   [Portalum/Portalum.Zvt](https://github.com/Portalum/Portalum.Zvt) - A .NET Zvt Library for Payment Terminals (C#)
+*   [Qolors/Clam-Shell](https://github.com/Qolors/Clam-Shell) - Discord File & URL Monitoring Anti-Virus Engine
+*   [mashed-potatoes/PotatoNV](https://github.com/mashed-potatoes/PotatoNV) - Unlock bootloader of Huawei devices on Kirin 960/95x/65x/620
+
+## JavaScript
+
+*   [jellyfin/jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen) - Jellyfin Samsung TV Client
+*   [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
+*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
+*   [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
+*   [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+*   [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
+*   [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+*   [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+*   [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+*   [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
+*   [gapitio/node-red-contrib-gapit-snmp](https://github.com/gapitio/node-red-contrib-gapit-snmp) -
+*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+*   [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
+*   [MycroftAI/mimic-recording-studio](https://github.com/MycroftAI/mimic-recording-studio) - Mimic Recording Studio is a Docker-based application you can install to record voice samples, which can then be trained into a TTS voice with Mimic2
+*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+
+## HTML
+
+*   [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
+*   [serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) - Curated list of awesome SEO tools
+*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+*   [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
+
+## Jinja
+
+*   [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
+*   [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 
 ## Python
 
@@ -265,7 +265,6 @@
 *   [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 *   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 *   [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n) - I18n module for Nuxt
-*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 *   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
 *   [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 *   [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
@@ -338,6 +337,7 @@
 *   [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 *   [googleapis/genai-toolbox](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 *   [gabrie30/ghorg](https://github.com/gabrie30/ghorg) - Quickly clone or backup an entire org/users repositories into one directory - Supports GitHub, GitLab, Bitbucket, and more 🐇🥚
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 *   [akvorado/akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 *   [netsampler/goflow2](https://github.com/netsampler/goflow2) - High performance sFlow/IPFIX/NetFlow Collector
 *   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -533,7 +533,3 @@
 ## Makefile
 
 *   [kubealex/k8s-mediaserver-operator](https://github.com/kubealex/k8s-mediaserver-operator) - Repository for k8s Mediaserver Operator project
-
-## Groovy
-
-*   [MinecraftForge/gitpatcher](https://github.com/MinecraftForge/gitpatcher) - A Gradle plugin to manage patches for Git repositories
