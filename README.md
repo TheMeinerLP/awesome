@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [Java](#java)
 *   [C#](#c)
 *   [JavaScript](#javascript)
@@ -12,7 +13,6 @@
 *   [Python](#python)
 *   [C](#c-1)
 *   [TypeScript](#typescript)
-*   [Rust](#rust)
 *   [Go](#go)
 *   [Kotlin](#kotlin)
 *   [Svelte](#svelte)
@@ -37,6 +37,26 @@
 *   [YAML](#yaml)
 *   [Dockerfile](#dockerfile)
 *   [Makefile](#makefile)
+
+## Rust
+
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+*   [moq-dev/moq](https://github.com/moq-dev/moq) - Media over QUIC library in Rust+Typescript
+*   [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
+*   [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies.
+*   [ComunidadAylas/PackSquash](https://github.com/ComunidadAylas/PackSquash) - 📦 Minecraft: Java Edition resource and data pack optimizer which aims to achieve the best possible compression, performance and protection, improving pack distribution, storage and in-game load times.
+*   [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+*   [scrayosnet/passage](https://github.com/scrayosnet/passage) - Minecraft Server Transfer Router to connect your Minecraft servers to the internet without any proxy or state.
+*   [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+*   [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+*   [nautechsystems/nautilus\_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
+*   [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+*   [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
+*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+*   [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
+*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+*   [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 
 ## Java
 
@@ -302,25 +322,6 @@
 *   [SciCatProject/scicat-backend-next](https://github.com/SciCatProject/scicat-backend-next) - SciCat Data Catalogue Backend
 *   [clearflask/clearflask](https://github.com/clearflask/clearflask) - Listen to your users during product development with ClearFlask
 
-## Rust
-
-*   [moq-dev/moq](https://github.com/moq-dev/moq) - Media over QUIC library in Rust+Typescript
-*   [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
-*   [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies.
-*   [ComunidadAylas/PackSquash](https://github.com/ComunidadAylas/PackSquash) - 📦 Minecraft: Java Edition resource and data pack optimizer which aims to achieve the best possible compression, performance and protection, improving pack distribution, storage and in-game load times.
-*   [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
-*   [scrayosnet/passage](https://github.com/scrayosnet/passage) - Minecraft Server Transfer Router to connect your Minecraft servers to the internet without any proxy or state.
-*   [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
-*   [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-*   [nautechsystems/nautilus\_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
-*   [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
-*   [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-*   [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
-*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-*   [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
-*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-
 ## Go
 
 *   [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
@@ -428,7 +429,6 @@
 *   [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 *   [doitsujin/dxvk](https://github.com/doitsujin/dxvk) - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine
 *   [GloriousEggroll/proton-ge-custom](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components
-*   [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 
 ## Elixir
 
