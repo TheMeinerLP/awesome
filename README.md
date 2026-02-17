@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Clojure](#clojure)
 *   [PHP](#php)
 *   [JavaScript](#javascript)
 *   [Python](#python)
@@ -22,7 +23,6 @@
 *   [Elixir](#elixir)
 *   [Shell](#shell)
 *   [Lua](#lua)
-*   [Clojure](#clojure)
 *   [Dart](#dart)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Text](#text)
@@ -36,6 +36,10 @@
 *   [YAML](#yaml)
 *   [Dockerfile](#dockerfile)
 *   [Makefile](#makefile)
+
+## Clojure
+
+*   [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar\_chart:
 
 ## PHP
 
@@ -280,7 +284,7 @@
 *   [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 *   [cloudflare/capnweb](https://github.com/cloudflare/capnweb) - JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
 *   [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
-*   [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
+*   [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 *   [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
 *   [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
 *   [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
@@ -329,7 +333,7 @@
 *   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 *   [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 *   [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-*   [SciCatProject/scicat-backend-next](https://github.com/SciCatProject/scicat-backend-next) - SciCat Data Catalogue Backend
+*   [SciCatProject/backend](https://github.com/SciCatProject/backend) - SciCat Data Catalogue Backend
 *   [clearflask/clearflask](https://github.com/clearflask/clearflask) - Listen to your users during product development with ClearFlask
 
 ## Go
@@ -464,10 +468,6 @@
 ## Lua
 
 *   [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-
-## Clojure
-
-*   [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar\_chart:
 
 ## Dart
 
