@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Clojure](#clojure)
 *   [PHP](#php)
 *   [JavaScript](#javascript)
@@ -21,7 +22,6 @@
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c-2)
 *   [Elixir](#elixir)
-*   [Shell](#shell)
 *   [Lua](#lua)
 *   [Dart](#dart)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -36,6 +36,25 @@
 *   [YAML](#yaml)
 *   [Dockerfile](#dockerfile)
 *   [Makefile](#makefile)
+
+## Shell
+
+*   [googlefonts/lexend](https://github.com/googlefonts/lexend) - A variable font family designed to aid in reading proficiency.
+*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+*   [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+*   [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices
+*   [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+*   [danielauener/git-auf-deutsch](https://github.com/danielauener/git-auf-deutsch) - Git auf deutsch
+*   [mroth/git-muzak](https://github.com/mroth/git-muzak) - :notes: Background music for your git commits
+*   [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
+*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
+*   [jenkinsci/bom](https://github.com/jenkinsci/bom) - Define plugin dependencies via BOM
+*   [fabianbees/breitbandmessung-docker](https://github.com/fabianbees/breitbandmessung-docker) - Automation for the official "Messkampagne" with the breitbandmessung.de Tool form the BNetzA
+*   [mondediefr/docker-flarum](https://github.com/mondediefr/docker-flarum) - :speech\_balloon: :whale: Docker image of Flarum
+*   [jlesage/docker-jdownloader-2](https://github.com/jlesage/docker-jdownloader-2) - Docker container for JDownloader 2
+*   [oracle/db-sharding](https://github.com/oracle/db-sharding) - Oracle Sharded database deployment automation and tools for use in client applications.
+*   [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
+*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
 
 ## Clojure
 
@@ -373,7 +392,6 @@
 *   [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both development and large-scale deployments. Proven in production environments, powering our global Connect edge proxy network.
 *   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 *   [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-*   [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 
 ## Kotlin
 
@@ -446,24 +464,6 @@
 ## Elixir
 
 *   [operately/operately](https://github.com/operately/operately) - The open source company operating system.
-
-## Shell
-
-*   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-*   [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-*   [linux-surface/linux-surface](https://github.com/linux-surface/linux-surface) - Linux Kernel for Surface Devices
-*   [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-*   [danielauener/git-auf-deutsch](https://github.com/danielauener/git-auf-deutsch) - Git auf deutsch
-*   [mroth/git-muzak](https://github.com/mroth/git-muzak) - :notes: Background music for your git commits
-*   [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
-*   [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-*   [jenkinsci/bom](https://github.com/jenkinsci/bom) - Define plugin dependencies via BOM
-*   [fabianbees/breitbandmessung-docker](https://github.com/fabianbees/breitbandmessung-docker) - Automation for the official "Messkampagne" with the breitbandmessung.de Tool form the BNetzA
-*   [mondediefr/docker-flarum](https://github.com/mondediefr/docker-flarum) - :speech\_balloon: :whale: Docker image of Flarum
-*   [jlesage/docker-jdownloader-2](https://github.com/jlesage/docker-jdownloader-2) - Docker container for JDownloader 2
-*   [oracle/db-sharding](https://github.com/oracle/db-sharding) - Oracle Sharded database deployment automation and tools for use in client applications.
-*   [PaperMC/Folia](https://github.com/PaperMC/Folia) - Fork of Paper which adds regionised multithreading to the dedicated server.
-*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
 
 ## Lua
 
