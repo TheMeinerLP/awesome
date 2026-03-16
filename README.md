@@ -174,7 +174,7 @@
 *   [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 *   [ipverse/as-ip-blocks](https://github.com/ipverse/as-ip-blocks) - Download IP block lists by ASN - network provider addresses, updated daily
 *   [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) - A curated list of software and architecture related design patterns.
-*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
+*   [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources \[BECAUSE OF TOO MUCH SPAM AND LOW-QUALITY SUBMISSIONS, SUBMISSIONS ARE PAUSED UNTIL SEPTEMBER]
 *   [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) - :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar\_board:
 *   [Droogans/unmaintainable-code](https://github.com/Droogans/unmaintainable-code) - A more maintainable, easier to share version of the infamous http://mindprod.com/jgloss/unmain.html
 *   [elizaOS/characters](https://github.com/elizaOS/characters) - Some character files you can use
