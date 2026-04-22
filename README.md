@@ -4,18 +4,18 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
 *   [TypeScript](#typescript)
-*   [JavaScript](#javascript)
+*   [HTML](#html)
 *   [Shell](#shell)
 *   [Clojure](#clojure)
 *   [PHP](#php)
+*   [JavaScript](#javascript)
 *   [Java](#java)
-*   [Rust](#rust)
 *   [C#](#c)
-*   [HTML](#html)
 *   [Jinja](#jinja)
 *   [C](#c-1)
 *   [Kotlin](#kotlin)
@@ -34,6 +34,27 @@
 *   [Batchfile](#batchfile)
 *   [Objective-C](#objective-c)
 *   [Dockerfile](#dockerfile)
+
+## Rust
+
+*   [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
+*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
+*   [moq-dev/moq](https://github.com/moq-dev/moq) - Media over QUIC library in Rust+Typescript
+*   [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
+*   [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies.
+*   [ComunidadAylas/PackSquash](https://github.com/ComunidadAylas/PackSquash) - 📦 Minecraft: Java Edition resource and data pack optimizer which aims to achieve the best possible compression, performance and protection, improving pack distribution, storage and in-game load times.
+*   [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
+*   [scrayosnet/passage](https://github.com/scrayosnet/passage) - Minecraft Server Transfer Router to connect your Minecraft servers to the internet without any proxy or state.
+*   [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+*   [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
+*   [nautechsystems/nautilus\_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
+*   [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+*   [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
+*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
+*   [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
+*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+*   [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 
 ## Python
 
@@ -195,7 +216,7 @@
 *   [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 *   [kubero-dev/kubero](https://github.com/kubero-dev/kubero) - A free and self-hosted PaaS alternative to Heroku / Netlify / Coolify / Vercel / Dokku / Portainer running on Kubernetes
 *   [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-*   [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+*   [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 *   [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) - A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
 *   [nuxt-modules/i18n](https://github.com/nuxt-modules/i18n) - I18n module for Nuxt
 *   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -234,24 +255,13 @@
 *   [SciCatProject/backend](https://github.com/SciCatProject/backend) - SciCat Data Catalogue Backend
 *   [clearflask/clearflask](https://github.com/clearflask/clearflask) - Listen to your users during product development with ClearFlask
 
-## JavaScript
+## HTML
 
 *   [orangecoding/fredy](https://github.com/orangecoding/fredy) - ❤️ Fredy - \[F]ind \[R]eal \[E]state \[D]amn Eas\[y] - Fredy keeps searching for new apartments, houses, and flats in Germany on platforms like ImmoScout24, Immowelt, Immonet, eBay Kleinanzeigen, and WG-Gesucht and instantly delivers the results to you via Slack, Telegram, Email, Discord or ntfy, so you can focus on the more important things in life ;)
-*   [headllines/hackernews-daily](https://github.com/headllines/hackernews-daily) - Hacker News daily top 10 posts
-*   [jellyfin/jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen) - Jellyfin Samsung TV Client
-*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
-*   [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
-*   [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
-*   [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
-*   [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
-*   [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
-*   [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
-*   [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
-*   [gapitio/node-red-contrib-gapit-snmp](https://github.com/gapitio/node-red-contrib-gapit-snmp) -
-*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-*   [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
-*   [MycroftAI/mimic-recording-studio](https://github.com/MycroftAI/mimic-recording-studio) - Mimic Recording Studio is a Docker-based application you can install to record voice samples, which can then be trained into a TTS voice with Mimic2
-*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
+*   [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
+*   [serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) - Curated list of awesome SEO tools
+*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+*   [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 
 ## Shell
 
@@ -284,6 +294,24 @@
 *   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 *   [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 *   [glowyphp/strings](https://github.com/glowyphp/strings) - Strings Package provide a fluent, object-oriented interface for working with multibyte strings, allowing you to chain multiple string operations together using a more readable syntax compared to traditional PHP strings functions.
+
+## JavaScript
+
+*   [headllines/hackernews-daily](https://github.com/headllines/hackernews-daily) - Hacker News daily top 10 posts
+*   [jellyfin/jellyfin-tizen](https://github.com/jellyfin/jellyfin-tizen) - Jellyfin Samsung TV Client
+*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
+*   [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
+*   [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
+*   [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
+*   [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
+*   [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+*   [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
+*   [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
+*   [gapitio/node-red-contrib-gapit-snmp](https://github.com/gapitio/node-red-contrib-gapit-snmp) -
+*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+*   [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
+*   [MycroftAI/mimic-recording-studio](https://github.com/MycroftAI/mimic-recording-studio) - Mimic Recording Studio is a Docker-based application you can install to record voice samples, which can then be trained into a TTS voice with Mimic2
+*   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
 ## Java
 
@@ -372,39 +400,12 @@
 *   [PaperMC/DataConverter](https://github.com/PaperMC/DataConverter) - Rewrite of the dataconverter system for performance.
 *   [HangarMC/Hangar](https://github.com/HangarMC/Hangar) - A plugin repository used for paper plugins
 
-## Rust
-
-*   [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden\_rs
-*   [moq-dev/moq](https://github.com/moq-dev/moq) - Media over QUIC library in Rust+Typescript
-*   [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
-*   [jeremylvln/Shulker](https://github.com/jeremylvln/Shulker) - A Kubernetes operator for managing complex and dynamic Minecraft infrastructures, including game servers and proxies.
-*   [ComunidadAylas/PackSquash](https://github.com/ComunidadAylas/PackSquash) - 📦 Minecraft: Java Edition resource and data pack optimizer which aims to achieve the best possible compression, performance and protection, improving pack distribution, storage and in-game load times.
-*   [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers.
-*   [scrayosnet/passage](https://github.com/scrayosnet/passage) - Minecraft Server Transfer Router to connect your Minecraft servers to the internet without any proxy or state.
-*   [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Open source comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
-*   [tensorzero/tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero is an open-source LLMOps platform that unifies an LLM gateway, observability, evaluation, optimization, and experimentation.
-*   [nautechsystems/nautilus\_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture
-*   [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
-*   [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
-*   [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-*   [anyrun-org/anyrun](https://github.com/anyrun-org/anyrun) - A wayland native, highly customizable runner.
-*   [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
-*   [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
-*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-
 ## C\#
 
 *   [jellyfin/jellyfin-plugin-tvheadend](https://github.com/jellyfin/jellyfin-plugin-tvheadend) -
 *   [s1t5/mail-archiver](https://github.com/s1t5/mail-archiver) - Mail-Archiver is a web application for archiving, searching, and exporting emails from multiple accounts. Featuring folder sync, attachment support, mailbox migration  and a dashboard.
 *   [Portalum/Portalum.Zvt](https://github.com/Portalum/Portalum.Zvt) - A .NET Zvt Library for Payment Terminals (C#)
 *   [Qolors/Clam-Shell](https://github.com/Qolors/Clam-Shell) - Discord File & URL Monitoring Anti-Virus Engine
-
-## HTML
-
-*   [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
-*   [serpapi/awesome-seo-tools](https://github.com/serpapi/awesome-seo-tools) - Curated list of awesome SEO tools
-*   [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-*   [Ylianst/MeshCentral](https://github.com/Ylianst/MeshCentral) - A complete web-based remote monitoring and management web site. Once setup you can install agents and perform remote desktop session to devices on the local network or over the Internet.
 
 ## Jinja
 
@@ -437,7 +438,6 @@
 *   [theEvilReaper/DartPoet](https://github.com/theEvilReaper/DartPoet) - A Kotlin API which allows the generation of code for dart
 *   [jpenilla/run-task](https://github.com/jpenilla/run-task) - Gradle plugins adding tasks to run Minecraft server and proxy software
 *   [KryptonMC/Krypton](https://github.com/KryptonMC/Krypton) - A fast, lightweight Minecraft server written in Kotlin
-*   [square/moshi](https://github.com/square/moshi) - A modern JSON library for Kotlin and Java.
 
 ## Svelte
 
