@@ -263,7 +263,7 @@
 *   [GeyserMC/OpenNBT](https://github.com/GeyserMC/OpenNBT) - A library for reading and writing NBT files.
 *   [IntellectualSites/fastasyncvoxelsniper](https://github.com/IntellectualSites/fastasyncvoxelsniper) - Voxel Sniper fork for modern Minecraft versions utilizing the improvements of FastAsyncWorldEdit
 *   [MaxPixelStudios/MinecraftDecompiler](https://github.com/MaxPixelStudios/MinecraftDecompiler) - Minecraft Decompiler. A useful tool/library to deobfuscate and decompile Minecraft(or any jar file) through popular mappings and various decompilers. Or use it as a lib to process obfuscation mappings such as converting a mapping to another format
-*   [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) - Blazingly fast world manipulation for artists, builders and everyone else: https://modrinth.com/plugin/fastasyncworldedit
+*   [IntellectualSites/FastAsyncWorldEdit](https://github.com/IntellectualSites/FastAsyncWorldEdit) - Blazingly fast world manipulation for artists, builders and everyone else.
 *   [cjburkey01/ClaimChunk](https://github.com/cjburkey01/ClaimChunk) - Spigot plugin built for Minecraft 1.17+ allowing the claiming and protection of players' chunks. Old versions available for Minecraft 1.6+ (See Readme!)
 *   [lucko/spark](https://github.com/lucko/spark) - A performance profiler for Minecraft clients, servers, and proxies.
 *   [IzzelAliz/Arclight](https://github.com/IzzelAliz/Arclight) - A Bukkit(1.20/1.21) server implementation in modding environment using Mixin. ⚡
