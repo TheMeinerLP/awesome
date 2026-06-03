@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [PowerShell](#powershell)
 *   [TypeScript](#typescript)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Python](#python)
@@ -34,6 +35,10 @@
 *   [Swift](#swift)
 *   [Batchfile](#batchfile)
 *   [Objective-C](#objective-c)
+
+## PowerShell
+
+*   [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
 ## TypeScript
 
@@ -175,7 +180,6 @@
 *   [althafvly/AmlogicKitchen](https://github.com/althafvly/AmlogicKitchen) - Android firmware kitchen for amlogic devices
 *   [Checkmk/ansible-collection-checkmk.general](https://github.com/Checkmk/ansible-collection-checkmk.general) - The official Checkmk Ansible collection - brought to you by the Checkmk company.
 *   [mja00/paper-log-parser](https://github.com/mja00/paper-log-parser) - A way to easily parse Paper logs
-*   [ViperX7/Alpaca-Turbo](https://github.com/ViperX7/Alpaca-Turbo) - Web UI to run alpaca model locally
 
 ## Go
 
