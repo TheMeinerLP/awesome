@@ -226,7 +226,7 @@
 *   [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 *   [Pragma-Innovation/bgpflowspectool](https://github.com/Pragma-Innovation/bgpflowspectool) - BGP flowspec (RFC 5575) tool for DDoS mitigation
 *   [itzg/mc-router](https://github.com/itzg/mc-router) - Routes Minecraft client connections to backend servers based upon the requested server address
-*   [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft reverse proxy and library with robust multi-protocol version support. Designed as a scalable Velocity/BungeeCord alternative, suitable for both development and large-scale deployments. Proven in production environments, powering our global Connect edge proxy network.
+*   [minekube/gate](https://github.com/minekube/gate) - High-performance, resource-efficient Minecraft Java + Bedrock reverse proxy and library with multi-version support. Scalable Velocity/BungeeCord alternative, suitable for both development and large-scale deployments. Proven in production environments, powering our global Connect edge proxy network.
 *   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 ## MDX
