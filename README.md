@@ -20,12 +20,12 @@
 *   [C#](#c)
 *   [HTML](#html)
 *   [Jinja](#jinja)
-*   [C](#c-1)
 *   [Kotlin](#kotlin)
 *   [Svelte](#svelte)
-*   [C++](#c-2)
+*   [C++](#c-1)
 *   [Elixir](#elixir)
 *   [Lua](#lua)
+*   [C](#c-2)
 *   [Dart](#dart)
 *   [Text](#text)
 *   [Markdown](#markdown)
@@ -50,6 +50,7 @@
 *   [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 *   [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 *   [ossf/malicious-packages](https://github.com/ossf/malicious-packages) - A repository of reports of malicious packages identified in Open Source package repositories, consumable via the Open Source Vulnerability (OSV) format.
+*   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 *   [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
 *   [veloxpack/csi-driver-rclone](https://github.com/veloxpack/csi-driver-rclone) - CSI driver built on top of rclone bringing cloud storage mounts to your pods with ease.
 *   [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH)
@@ -430,14 +431,6 @@
 *   [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz) - Your favorite operating systems in one place.  A network-based bootable operating system installer based on iPXE.
 *   [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 
-## C
-
-*   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-*   [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
-*   [d0k3/GodMode9](https://github.com/d0k3/GodMode9) - GodMode9 Explorer - A full access file browser for the Nintendo 3DS console :godmode:
-*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
-*   [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
-
 ## Kotlin
 
 *   [ArcanePlugins/LevelledMobs](https://github.com/ArcanePlugins/LevelledMobs) - Level-up mobs on your Spigot/Paper server, RPG-style!
@@ -484,6 +477,13 @@
 ## Lua
 
 *   [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+
+## C
+
+*   [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
+*   [d0k3/GodMode9](https://github.com/d0k3/GodMode9) - GodMode9 Explorer - A full access file browser for the Nintendo 3DS console :godmode:
+*   [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+*   [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 
 ## Dart
 
